@@ -1,14 +1,12 @@
-# Calcular Imposto em Java
+# Calculador de Impostos em Java 🧮💰
 
-🎉 **Bem-vindo ao Calculador de Impostos do Futuro!** 🎉
-
-Se você já se perguntou como seria a vida se pudesse simplificar o cálculo de impostos e benefícios, você está no lugar certo! Este projeto em Java faz exatamente isso. Vamos dar uma olhada no que ele faz e como você pode usá-lo.
+Olá, pessoal! 👋 Se você sempre quis saber quanto realmente vai levar pra casa depois dos impostos e benefícios, este código em Java vai te ajudar! Ele faz todo o trabalho pesado para você. Vamos conferir como funciona essa belezura?
 
 ## O Que Este Código Faz?
 
-Este código é como um superpoder que ajuda você a calcular quanto você vai realmente levar para casa depois de pagar impostos e adicionar seus benefícios. 🦸‍♂️💸
+Este código Java é como um assistente pessoal digital que calcula o quanto você vai receber após o imposto e adicionar seus benefícios. 🚀
 
-Aqui está o que ele faz:
+### O Que Acontece Passo a Passo:
 
 1. **Pede Seu Salário**:
    - Primeiro, o programa pede para você informar o valor do seu salário. Sim, aquele valor que faz o seu trabalho valer a pena!
